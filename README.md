@@ -1,2 +1,3 @@
 # liff-sample-app-npm-ver
-npmでLIFFをインストールしたLIFFアプリプロジェクトです。
+
+jsQR で実装した LIFF アプリプロジェクトです。
